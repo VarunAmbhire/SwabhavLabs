@@ -1,0 +1,6 @@
+1536294910467	Rename local variable 'accListener'
+1536296301284	Rename local variable 'smsListener1'
+1536296620456	Rename method 'getDeposit'
+1536296646511	Rename method 'getWithdraw'
+1536297013398	Rename method 'balanceChangerd'
+1536298035195	Rename field 'listener'

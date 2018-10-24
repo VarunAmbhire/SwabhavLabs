@@ -1,0 +1,8 @@
+package com.techlab.adapterpattern;
+
+public interface AdvanceMediaPlayer {
+
+	public void playVLC();
+
+	public void playMP4();
+}

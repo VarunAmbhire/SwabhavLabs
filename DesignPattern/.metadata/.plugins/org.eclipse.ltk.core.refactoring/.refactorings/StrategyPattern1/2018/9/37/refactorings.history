@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename enum constant &apos;COMERCIAL&apos; of &apos;com.techlab.strategypattern1.PlanType&apos; to &apos;COMMERCIAL&apos;&#x0D;&#x0A;- Original project: &apos;StrategyPattern1&apos;&#x0D;&#x0A;- Original element: &apos;com.techlab.strategypattern1.PlanType.COMERCIAL&apos;&#x0D;&#x0A;- Renamed element: &apos;com.techlab.strategypattern1.PlanType.COMMERCIAL&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename enum constant &apos;COMERCIAL&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.enum.constant" input="/src&lt;com.techlab.strategypattern1{PlanType.java[PlanType^COMERCIAL" name="COMMERCIAL" references="true" setter="false" stamp="1536553780413" textual="false" version="1.0"/>
+</session>

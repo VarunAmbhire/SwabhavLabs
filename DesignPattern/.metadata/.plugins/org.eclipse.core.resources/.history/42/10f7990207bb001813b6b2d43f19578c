@@ -1,0 +1,16 @@
+package com.techlab.adapterpattern;
+
+public class VLCPlayer implements AdvanceMediaPlayer {
+
+	@Override
+	public void playVLC() {
+		System.out.println("Playing Media Player in VLC Player");
+	}
+
+	@Override
+	public void playMP4() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
